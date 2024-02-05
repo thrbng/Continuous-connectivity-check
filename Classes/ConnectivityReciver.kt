@@ -1,7 +1,5 @@
 @file:Suppress("DEPRECATION")
 
-package com.example.stockshaper.baseActivityInternet
-
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
